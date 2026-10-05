@@ -3,7 +3,7 @@ name: PowerShell validation
 on:
   push:
     branches:
-      - development/**
+      - main
   pull_request:
     branches:
       - main
