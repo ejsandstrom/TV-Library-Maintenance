@@ -1,0 +1,20 @@
+# Local configuration and secrets
+**/config.json
+**/*.secrets.json
+.env
+.env.*
+
+# Runtime output
+**/Logs/
+**/Quarantine/
+**/Transactions/
+**/*.lock
+**/*.tmp
+TV-Library-Maintenance/Setup/TVLibrarySetup.exe
+
+# PowerShell / editor noise
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+

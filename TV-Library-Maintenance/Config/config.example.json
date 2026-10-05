@@ -1,0 +1,24 @@
+{
+  "Mode": "Analyze",
+  "DownloadsPath": "C:\\TV-Downloads",
+  "QuarantinePath": "C:\\TV-Downloads\\Needs Review",
+  "HomeMapPath": "\\\\YourServer\\TV Shows\\_Home locations\\TV_Home_Locations.csv",
+  "StorageRoots": [
+    {
+      "Name": "TV1",
+      "Path": "\\\\YourServer\\TV Shows"
+    },
+    {
+      "Name": "TV2",
+      "Path": "\\\\YourServer\\TV Shows 2"
+    },
+    {
+      "Name": "TV3",
+      "Path": "\\\\YourServer\\TV Shows 3"
+    }
+  ],
+  "FileStabilityMinutes": 10,
+  "RebalanceThresholdPercent": 10,
+  "MinimumFreeSpaceGB": 500
+}
+
